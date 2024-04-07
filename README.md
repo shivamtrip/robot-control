@@ -15,7 +15,7 @@ Jump to section:
 **Implementation:** [lqr_cartpole](lqr_cartpole/lqr_cartpole.ipynb)
  Infinite Horizon LQR (IHLQR) | Time Varying LQR (TVLQR)
 :-------------------------:|:-------------------------:
-<br /> <img src="https://github.com/shivamtrip/robot-control/assets/66013750/31ed393a-06cb-4784-abb0-ad50c415e344" width="400"> &nbsp; | &nbsp; <br /> <img src = "https://github.com/shivamtrip/robot-control/assets/66013750/d1fefc23-ec37-4bbb-9602-1107807ca1a9" width="400"> <br />
+<br /> <img src="https://github.com/shivamtrip/robot-control/assets/66013750/31ed393a-06cb-4784-abb0-ad50c415e344" width="400"> &nbsp; | <br /> <img src = "https://github.com/shivamtrip/robot-control/assets/66013750/d1fefc23-ec37-4bbb-9602-1107807ca1a9" width="400"> <br />
 
 <br />
 
