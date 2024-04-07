@@ -1,6 +1,10 @@
 ## Introduction
 This repository includes my implementations of optimal control algorithms such as LQR and MPC for non-linear systems. These were done as part of coursework in the graduate course: [16745 - Optimal Control and Reinforcement Learning](https://optimalcontrol.ri.cmu.edu/) at CMU Robotics Institute (Spring 2023). 
 
+Jump to section: 
+- [LQR for a Non-Linear Cartpole System ](https://github.com/shivamtrip/robot-control/blob/main/README.md#)
+
+<br />
 
 ## LQR for a Non-Linear Cartpole System 
 **Goal:** 
